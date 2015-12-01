@@ -1,0 +1,14 @@
+layout_spectrum: 0.6568297
+color:
+  saturation: 0.9392557
+  brandStrength: 0.8929174
+  lightness: 0.1593592
+  brandColors:
+    - '#428666'
+    - '#20201F'
+    - '#43403B'
+    - '#BDBDA3'
+    - '#F0E2DD'
+  rhythmicContrast: 0.6183097
+typography_spectrum: 0.267285
+name: LH
