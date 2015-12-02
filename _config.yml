@@ -1,14 +1,26 @@
-layout_spectrum: 0.6568297
 color:
   saturation: 0.9392557
   brandStrength: 0.8929174
-  lightness: 0.1593592
+  rhythmicContrast: 0.6183097
   brandColors:
     - '#428666'
     - '#20201F'
     - '#43403B'
     - '#BDBDA3'
     - '#F0E2DD'
-  rhythmicContrast: 0.6183097
+  lightness: 0.1593592
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.6568297
 typography_spectrum: 0.267285
 name: LH
